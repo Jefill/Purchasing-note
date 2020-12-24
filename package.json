@@ -1,7 +1,6 @@
 {
-  "name": "Hackery",
+  "name": "Name",
   "version": "0.1.0",
-  "description": "Web-Background: a Vaporwave Agenda",
   "private": "true",
   "scripts": {
     "build": "webpack"
