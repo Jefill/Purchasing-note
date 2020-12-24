@@ -1,1 +1,3 @@
-Dump beach just `npm run build`
+Dump beach just collecting what is that mean
+
+`npm run build`
