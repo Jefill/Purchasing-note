@@ -11,7 +11,7 @@
     "Javascript",
     "HTML"
   ],
-  "author": "M. Syamsir Alam",
+  "author": "Jefill, LLC",
   "license": "ISC",
   "dependencies": {
     "lodash": "^4.17.20"
