@@ -1,1 +1,16 @@
 node_modules
+
+#vim
+============================
+#src~
+.index.js.un~
+index.js~
+#dist~
+.index.html.un~
+index.html~
+#
+.README.md.un~
+.package.json.un~
+.webpack.config.js.un~
+package.json~
+webpack.config.js~
