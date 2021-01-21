@@ -1,3 +1,6 @@
 [submodule "config/csv-to-html-table"]
 	path = config/csv-to-html-table
 	url = https://github.com/derekeder/csv-to-html-table.git
+[submodule "dist/csv-to-html-table"]
+	path = dist/csv-to-html-table
+	url = https://github.com/derekeder/csv-to-html-table.git
