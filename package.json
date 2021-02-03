@@ -5,7 +5,7 @@
   "scripts": {
     "start": "http-server ./dist --https",
     "build": "webpack"
-},
+  },
   "keywords": [
     "CSS",
     "Javascript",
@@ -17,6 +17,7 @@
     "lodash": "^4.17.20"
   },
   "devDependencies": {
+    "@github/jtml": "^0.3.3",
     "css-loader": "^5.0.1",
     "http-server": "^0.12.3",
     "style-loader": "^2.0.0",

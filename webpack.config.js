@@ -10,8 +10,17 @@ module.exports = {
     rules: [
       {
         test: /\.css$/i,
-        use: ['style-loader', 'css-loader'],
-      },
-    ],
-  },
+        use: [
+	  {
+            loader: 'style-loader', 'css-loader', 'imports-loader',
+	    option: {
+	     imports: {
+	       moduleName: '@github/jtml',
+	       name: 'html', 'render',
+	     },
+	   },
+         },
+       ],
+     },
+   ],
 };

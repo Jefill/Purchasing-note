@@ -1,5 +1,9 @@
 import _, { result } from 'lodash';
+import {html, render} from '@github/jtml'
 import './style.css';
+
+const sapa.cw = 'hello'
+render(html`<h1>${sapa.cw} index</h1>`, document.body)
 
 function component() {
     const element = document.createElement('div');
