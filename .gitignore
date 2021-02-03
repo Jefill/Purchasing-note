@@ -11,7 +11,10 @@ index.html~
 #
 .README.md.un~
 .package.json.un~
+.package.json.swp
 .webpack.config.js.un~
+.webpack.config.js.swo
+.webpack.config.js.swp
 README.md~
 package.json~
 webpack.config.js~
